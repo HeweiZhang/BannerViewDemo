@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         List<String> urls = new ArrayList<>();
         urls.add("http://img.zcool.cn/sucaiori/733B8D1B-4140-8B0C-EF86-CC6C6793D072.jpg@700w_0e_1l.jpg");
         urls.add("http://img.zcool.cn/sucaiori/BB0E9E48-9B9B-AC2B-EEB5-198391F8CC1A.jpg@700w_0e_1l.jpg");
-        urls.add("http://img.zcool.cn/sucaiori/FE11B30D-FF9B-5D1F-4278-02D9BC31AB9C.jpg@700w_0e_1l.jpg");
+        urls.add("http://img.zcool.cn/sucaiori/8BD5E2A8-52E7-18D5-D77B-E50DFFD5EEA4.jpg@700w_0e_1l.jpg");
 
         bannerView.setData(urls);
         bannerView.setOnClickListener(new BannerView.BannerOnClickListener() {
